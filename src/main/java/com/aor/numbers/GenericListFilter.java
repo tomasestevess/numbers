@@ -1,4 +1,4 @@
 package com.aor.numbers;
 
 
-public interface GenericListFilter { public boolean accept(Integer number);}
+public interface GenericListFilter { boolean accept(Integer number);}
